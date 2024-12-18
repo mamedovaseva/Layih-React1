@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Layih-React1/static/css/main.9a612e65.css",
+    "main.js": "/Layih-React1/static/js/main.67eaa07b.js",
+    "index.html": "/Layih-React1/index.html",
+    "main.9a612e65.css.map": "/Layih-React1/static/css/main.9a612e65.css.map",
+    "main.67eaa07b.js.map": "/Layih-React1/static/js/main.67eaa07b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a612e65.css",
+    "static/js/main.67eaa07b.js"
+  ]
+}
