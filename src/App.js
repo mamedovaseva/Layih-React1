@@ -29,7 +29,6 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <ThemeProvider></ThemeProvider>
         <Routes>
           <Route
             path="/"
